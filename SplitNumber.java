@@ -1,6 +1,6 @@
 package mc.sn.day2;
 
-public class Opmain {
+public class SplitNumber {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
